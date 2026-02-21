@@ -1,0 +1,18 @@
+connectivity banayega tu logs dega us ke liyen cloud watch ka access dein gey 
+
+developer reuest to hamza yeh tag banaya hai ab is keyvalue pair se related jo bhi cheezein hain wo saari delete kar do tu tag banao 
+
+instance type ec2 ka mtlb konsa processor is par ek agent chalega 
+
+cloud bot nhi chalan full access mangta hai 
+
+key value pair connection banayega vscode ka ec2 se 
+
+realtime ki sevice hai jo decompled architecture par kaam karti hai consumer and service par 
+
+united states east-1 north virginia region rakho
+
+chmod 400 "kp-ecommerece-datapipeline-ec2-mhs.pem" (yeh read and write access deta hai 400 mtlb all read privileges)
+
+--------------------------------------------------------------------------------------------------------------------
+
