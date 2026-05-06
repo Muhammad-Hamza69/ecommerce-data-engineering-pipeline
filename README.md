@@ -5,4 +5,5 @@
 
 # ecommerce-datapipeline
 Ecommerce datapipeline with snowflake manmageed airflow and kinesis on AWS
+use 3.0.6 airflow (mwaa) version
 
