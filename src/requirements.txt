@@ -1,2 +1,5 @@
-apache-airflow-providers-snowflake==5.8.0
+--constraint https://raw.githubusercontent.com/apache/airflow/constraints-3.0.6/constraints-3.12.txt
 
+apache-airflow-providers-snowflake
+apache-airflow-providers-amazon
+snowflake-sqlalchemy
